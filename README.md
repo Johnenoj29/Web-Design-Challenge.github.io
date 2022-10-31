@@ -1,6 +1,6 @@
 # Web-Design-Challenge.github.io
 
-1. Go to https://johnenoj29.github.io/Web-Design-Challenge.github.io/Landing.html
+1. Go to https://johnenoj29.github.io/Web-Design-Challenge.github.io/
 ![image](https://user-images.githubusercontent.com/107616415/196797005-938b39ac-e905-4034-a8d6-cb5e7eff28cc.png)
 
 2. Click drop down to other pages
