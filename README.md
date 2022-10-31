@@ -1,28 +1,31 @@
 # Web-Design-Challenge.github.io
 
 1. Go to https://johnenoj29.github.io/Web-Design-Challenge.github.io/
-![image](https://user-images.githubusercontent.com/107616415/196797005-938b39ac-e905-4034-a8d6-cb5e7eff28cc.png)
+![image](https://user-images.githubusercontent.com/107616415/199119267-d2c357ba-f58a-44d9-885a-cc96720843ae.png)
+
 
 2. Click drop down to other pages
 
-Max Temperature
-![image](https://user-images.githubusercontent.com/107616415/196798755-4c2c0cbe-481c-4911-b170-a288cbf95ab3.png)
-
-Humidity
-![image](https://user-images.githubusercontent.com/107616415/196798854-2b0b9f23-6393-4b5c-abcc-78e041c9c557.png)
-
-Cloudiness
-
-![image](https://user-images.githubusercontent.com/107616415/196798972-f7ea670d-5142-4329-8d91-d7a89b660bb1.png)
-
-Wind Speed
-
-![image](https://user-images.githubusercontent.com/107616415/196799064-98ff2fcd-6511-4bb5-8c0e-04084ed30247.png)
-
 Comparison
 
-![image](https://user-images.githubusercontent.com/107616415/196799142-2c59010a-a3b9-4b53-aaf3-98925aafbd53.png)
+![image](https://user-images.githubusercontent.com/107616415/199119365-78588aed-d692-4ea2-885c-cd4cc4922e26.png)
 
 Data
 
-![image](https://user-images.githubusercontent.com/107616415/196799232-2d0162e4-932f-4b6e-afc6-c3704e8fad74.png)
+![image](https://user-images.githubusercontent.com/107616415/199119426-2c21b740-dc7c-463f-9d5c-dc108abfed67.png)
+
+Max Temperature
+![image](https://user-images.githubusercontent.com/107616415/199119464-de359fe3-9a86-490e-95a8-103f81b7e868.png)
+
+Humidity
+![image](https://user-images.githubusercontent.com/107616415/199119498-fb77032f-bb65-47e9-99a7-eb1c4da313be.png)
+
+Cloudiness
+
+![image](https://user-images.githubusercontent.com/107616415/199119524-253ccb3f-328f-4474-a884-ac921619a51f.png)
+
+Wind Speed
+
+![image](https://user-images.githubusercontent.com/107616415/199119560-74e11cd6-47af-4ed4-9653-c3dda1b8f418.png)
+
+
